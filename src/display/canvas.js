@@ -524,7 +524,7 @@ var CanvasGraphics = (function CanvasGraphicsClosure() {
       j = 0;
       elemsInThisChunk = width * FULL_CHUNK_HEIGHT * 4;
       for (i = 0; i < fullChunks; i++) {
-        dest.set(src.subarray(srcPos, srcPos + elemsInThisChunk));
+        dest.set(src.subarray(srcPos, srcPos + elemsInThisChunk)); // 通过set方法来获取数据
         srcPos += elemsInThisChunk;
 
         ctx.putImageData(chunkImgData, 0, j);
@@ -803,6 +803,7 @@ var CanvasGraphics = (function CanvasGraphicsClosure() {
         fnId = fnArray[i];
 
         if (fnId !== OPS.dependency) {
+          console.log(fnId, "canvas.js 806")
           this[fnId].apply(this, argsArray[i]);
         } else {
           for (const depObjId of argsArray[i]) {
@@ -2065,6 +2066,7 @@ var CanvasGraphics = (function CanvasGraphicsClosure() {
     },
 
     paintImageXObject: function CanvasGraphics_paintImageXObject(objId) {
+      console.log("paintImageXObject canvas js 2068")
       const imgData = this.processingType3 ? this.commonObjs.get(objId) :
                                              this.objs.get(objId);
       if (!imgData) {

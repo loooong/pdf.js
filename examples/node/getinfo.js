@@ -23,14 +23,14 @@ loadingTask.promise.then(function(doc) {
   console.log();
 
   var lastPromise; // will be used to chain promises
-  lastPromise = doc.getMetadata().then(function (data) {
+  lastPromise = doc.getMetadata().then(function (metaData) {
     console.log('# Metadata Is Loaded');
     console.log('## Info');
-    console.log(JSON.stringify(data.info, null, 2));
+    console.log(JSON.stringify(metaData.info, null, 2));
     console.log();
-    if (data.metadata) {
+    if (metaData.metadata) {
       console.log('## Metadata');
-      console.log(JSON.stringify(data.metadata.getAll(), null, 2));
+      console.log(JSON.stringify(metaData.metadata.getAll(), null, 2));
       console.log();
     }
   });
@@ -41,10 +41,10 @@ loadingTask.promise.then(function(doc) {
       var viewport = page.getViewport({ scale: 1.0, });
       console.log('Size: ' + viewport.width + 'x' + viewport.height);
       console.log();
-      return page.getTextContent().then(function (content) {
+      return page.getTextContent().then(function (textContent) {
         // Content contains lots of information about the text layout and
         // styles, but we need only strings at the moment
-        var strings = content.items.map(function (item) {
+        var strings = textContent.items.map(function (item) {
           return item.str;
         });
         console.log('## Text Content');

@@ -14,6 +14,7 @@
  */
 
 'use strict';
+// Run `gulp dist-install` to generate 'pdfjs-dist' npm package files.
 
 if (!pdfjsLib.getDocument || !pdfjsViewer.PDFViewer) {
   alert('Please build the pdfjs-dist library using\n' +

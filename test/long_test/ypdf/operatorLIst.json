@@ -1,0 +1,1554 @@
+{
+  "fnArray": [
+    70,
+    31,
+    1,
+    37,
+    40,
+    44,
+    1,
+    37,
+    40,
+    44,
+    37,
+    40,
+    45,
+    37,
+    40,
+    44,
+    32,
+    10,
+    19,
+    30,
+    28,
+    19,
+    23,
+    71,
+    11,
+    31,
+    70,
+    37,
+    40,
+    44,
+    42,
+    44,
+    71,
+    32,
+    70,
+    10,
+    12,
+    1,
+    85,
+    11,
+    71,
+    31,
+    70,
+    37,
+    40,
+    44,
+    71,
+    70,
+    2,
+    1,
+    37,
+    38,
+    40,
+    45,
+    40,
+    44,
+    71,
+    70,
+    37,
+    40,
+    45,
+    71,
+    70,
+    37,
+    40,
+    44,
+    71,
+    32,
+    70,
+    10,
+    12,
+    1,
+    85,
+    11,
+    71,
+    31,
+    70,
+    37,
+    40,
+    44,
+    71,
+    70,
+    2,
+    37,
+    40,
+    44,
+    71,
+    70,
+    41,
+    44,
+    71,
+    70,
+    37,
+    40,
+    45,
+    71,
+    70,
+    37,
+    40,
+    45,
+    71,
+    70,
+    40,
+    44,
+    71,
+    70,
+    1,
+    37,
+    40,
+    45,
+    33,
+    40,
+    44,
+    71,
+    70,
+    1,
+    37,
+    33,
+    40,
+    44,
+    71,
+    70,
+    37,
+    40,
+    45,
+    71,
+    70,
+    37,
+    33,
+    40,
+    44,
+    71,
+    70,
+    33,
+    40,
+    44,
+    71,
+    70,
+    37,
+    40,
+    44,
+    71,
+    70,
+    37,
+    40,
+    44,
+    71,
+    70,
+    37,
+    40,
+    44,
+    71,
+    70,
+    37,
+    42,
+    44,
+    71,
+    32,
+    70,
+    10,
+    12,
+    2,
+    9,
+    38,
+    76,
+    74,
+    10,
+    12,
+    1,
+    82,
+    11,
+    75,
+    77,
+    11,
+    71
+  ],
+  "argsArray": [
+    [
+      {
+        "name": "Artifact"
+      },
+      {
+        "Attached": [
+          {
+            "name": "Top"
+          }
+        ],
+        "Type": {
+          "name": "Pagination"
+        }
+      }
+    ],
+    [],
+    [
+      "g_font_22_0"
+    ],
+    [
+      "g_font_22_0",
+      9
+    ],
+    [
+      336.16,
+      796.86
+    ],
+    [
+      [
+        {
+          "fontChar": "深",
+          "unicode": "深",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "圳",
+          "unicode": "圳",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "市",
+          "unicode": "市",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "长",
+          "unicode": "长",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "方",
+          "unicode": "方",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "集",
+          "unicode": "集",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "团",
+          "unicode": "团",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "股",
+          "unicode": "股",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "份",
+          "unicode": "份",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "有",
+          "unicode": "有",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "限",
+          "unicode": "限",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "公",
+          "unicode": "公",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "司",
+          "unicode": "司",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        }
+      ]
+    ],
+    [
+      "g_font_23_0"
+    ],
+    [
+      "g_font_23_0",
+      9
+    ],
+    [
+      119.24,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "2",
+          "unicode": "2",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        {
+          "fontChar": "0",
+          "unicode": "0",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        {
+          "fontChar": "1",
+          "unicode": "1",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        {
+          "fontChar": "7",
+          "unicode": "7",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        }
+      ]
+    ],
+    [
+      "g_font_22_0",
+      9
+    ],
+    [
+      20.22,
+      0
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "年",
+            "unicode": "年",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "年",
+            "unicode": "年",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "度",
+            "unicode": "度",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -6,
+        [
+          {
+            "fontChar": "报",
+            "unicode": "报",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "告",
+            "unicode": "告",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "全",
+            "unicode": "全",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "文",
+            "unicode": "文",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [
+      "g_font_23_0",
+      9
+    ],
+    [
+      63.06,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 250,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [],
+    [
+      0,
+      -0.06,
+      595.4,
+      841.98
+    ],
+    [],
+    [],
+    [
+      55.2,
+      792.48,
+      484.98,
+      0.72
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "name": "Artifact"
+      },
+      {
+        "Attached": [
+          {
+            "name": "Bottom"
+          }
+        ],
+        "Type": {
+          "name": "Pagination"
+        }
+      }
+    ],
+    [
+      "g_font_23_0",
+      9
+    ],
+    [
+      534.18,
+      38.16
+    ],
+    [
+      [
+        {
+          "fontChar": "1",
+          "unicode": "1",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        }
+      ]
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      538.68,
+      38.16
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 250,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 0
+      }
+    ],
+    [],
+    [
+      374.1000061,
+      0,
+      0,
+      68.75,
+      110.6000061,
+      641.1699982
+    ],
+    [
+      "img_p0_1"
+    ],
+    [
+      "img_p0_1",
+      1039,
+      181
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "Lang": "en-US",
+        "MCID": 1
+      }
+    ],
+    [
+      "g_font_23_0",
+      12
+    ],
+    [
+      484.74,
+      641.14
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 250,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "Lang": "en-US",
+        "MCID": 2
+      }
+    ],
+    [
+      0.686
+    ],
+    [
+      "g_font_24_0"
+    ],
+    [
+      "g_font_24_0",
+      24
+    ],
+    [
+      2
+    ],
+    [
+      -274.54,
+      -44.16
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "2",
+            "unicode": "2",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          },
+          {
+            "fontChar": "0",
+            "unicode": "0",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ],
+        -6,
+        [
+          {
+            "fontChar": "1",
+            "unicode": "1",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [
+      36.32,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "7",
+          "unicode": "7",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 3
+      }
+    ],
+    [
+      "g_font_22_0",
+      24
+    ],
+    [
+      18.12,
+      0
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "年",
+            "unicode": "年",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "年",
+            "unicode": "年",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -6,
+        [
+          {
+            "fontChar": "度",
+            "unicode": "度",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          },
+          {
+            "fontChar": "报",
+            "unicode": "报",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -6,
+        [
+          {
+            "fontChar": "告",
+            "unicode": "告",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 4
+      }
+    ],
+    [
+      "g_font_24_0",
+      24
+    ],
+    [
+      120.48,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 5
+      }
+    ],
+    [],
+    [
+      356.3500061,
+      0,
+      0,
+      286.3999939,
+      119.4499969,
+      283.7200012
+    ],
+    [
+      "img_p0_2"
+    ],
+    [
+      "img_p0_2",
+      288,
+      230
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "Lang": "en-US",
+        "MCID": 6
+      }
+    ],
+    [
+      "g_font_24_0",
+      24
+    ],
+    [
+      475.86,
+      283.7
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "Lang": "en-US",
+        "MCID": 7
+      }
+    ],
+    [
+      0.399
+    ],
+    [
+      "g_font_24_0",
+      13.98
+    ],
+    [
+      -419.16,
+      -14.1
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "Lang": "en-US",
+        "MCID": 8
+      }
+    ],
+    [
+      0,
+      -27.24
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 9
+      }
+    ],
+    [
+      "g_font_22_0",
+      13.98
+    ],
+    [
+      184.64,
+      -27.24
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "证",
+            "unicode": "证",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "券",
+            "unicode": "券",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "代",
+            "unicode": "代",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "码",
+            "unicode": "码",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -8,
+        [
+          {
+            "fontChar": "：",
+            "unicode": "：",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 10
+      }
+    ],
+    [
+      "g_font_24_0",
+      13.98
+    ],
+    [
+      70.28,
+      0
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "3",
+            "unicode": "3",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ],
+        -5,
+        [
+          {
+            "fontChar": "0",
+            "unicode": "0",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ],
+        -5,
+        [
+          {
+            "fontChar": "0",
+            "unicode": "0",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ],
+        -5,
+        [
+          {
+            "fontChar": "3",
+            "unicode": "3",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          },
+          {
+            "fontChar": "0",
+            "unicode": "0",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ],
+        -8,
+        [
+          {
+            "fontChar": "1",
+            "unicode": "1",
+            "accent": null,
+            "width": 500,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 11
+      }
+    ],
+    [
+      42.36,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 12
+      }
+    ],
+    [
+      "g_font_22_0"
+    ],
+    [
+      "g_font_22_0",
+      13.98
+    ],
+    [
+      -119.54,
+      -27.24
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "证",
+            "unicode": "证",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "券",
+            "unicode": "券",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "简",
+            "unicode": "简",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "称",
+            "unicode": "称",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -8,
+        [
+          {
+            "fontChar": "：",
+            "unicode": "：",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "长",
+            "unicode": "长",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "方",
+            "unicode": "方",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [
+      0.12
+    ],
+    [
+      98.36,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "集",
+          "unicode": "集",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        },
+        {
+          "fontChar": "团",
+          "unicode": "团",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 13
+      }
+    ],
+    [
+      "g_font_24_0"
+    ],
+    [
+      "g_font_24_0",
+      13.98
+    ],
+    [
+      0
+    ],
+    [
+      28.14,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 14
+      }
+    ],
+    [
+      "g_font_22_0",
+      13.98
+    ],
+    [
+      -135.38,
+      -27.24
+    ],
+    [
+      [
+        [
+          {
+            "fontChar": "披",
+            "unicode": "披",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "露",
+            "unicode": "露",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "日",
+            "unicode": "日",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -3,
+        [
+          {
+            "fontChar": "期",
+            "unicode": "期",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ],
+        -8,
+        [
+          {
+            "fontChar": "：",
+            "unicode": "：",
+            "accent": null,
+            "width": 1000,
+            "disabled": false
+          }
+        ]
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 15
+      }
+    ],
+    [
+      "g_font_24_0",
+      13.98
+    ],
+    [
+      0.09
+    ],
+    [
+      70.28,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "2",
+          "unicode": "2",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        {
+          "fontChar": "0",
+          "unicode": "0",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        {
+          "fontChar": "1",
+          "unicode": "1",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 16
+      }
+    ],
+    [
+      0
+    ],
+    [
+      21.18,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "8",
+          "unicode": "8",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 17
+      }
+    ],
+    [
+      "g_font_22_0",
+      13.98
+    ],
+    [
+      10.56,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "年",
+          "unicode": "年",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 18
+      }
+    ],
+    [
+      "g_font_24_0",
+      13.98
+    ],
+    [
+      17.58,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "3",
+          "unicode": "3",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 19
+      }
+    ],
+    [
+      "g_font_22_0",
+      13.98
+    ],
+    [
+      10.62,
+      0
+    ],
+    [
+      [
+        {
+          "fontChar": "月",
+          "unicode": "月",
+          "accent": null,
+          "width": 1000,
+          "disabled": false
+        }
+      ]
+    ],
+    [],
+    [
+      {
+        "name": "P"
+      },
+      {
+        "MCID": 20
+      }
+    ],
+    [
+      "g_font_24_0",
+      13.98
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      369.76,
+      160.64
+    ],
+    [
+      [
+        {
+          "fontChar": " ",
+          "unicode": " ",
+          "accent": null,
+          "width": 500,
+          "disabled": false
+        },
+        null
+      ]
+    ],
+    [],
+    [],
+    [
+      {
+        "name": "Artifact"
+      },
+      {
+        "Subtype": {
+          "name": "Watermark"
+        },
+        "Type": {
+          "name": "Pagination"
+        }
+      }
+    ],
+    [],
+    [
+      0.5,
+      0,
+      0,
+      0.5,
+      -44.6799927,
+      0
+    ],
+    [
+      1
+    ],
+    [
+      [
+        [
+          "CA",
+          0.5
+        ],
+        [
+          "ca",
+          0.5
+        ]
+      ]
+    ],
+    [
+      0
+    ],
+    [
+      {
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bbox": [
+          0,
+          0,
+          1280,
+          84
+        ],
+        "smask": false,
+        "isolated": false,
+        "knockout": true
+      }
+    ],
+    [
+      [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1280,
+        84
+      ]
+    ],
+    [],
+    [
+      1280,
+      0,
+      0,
+      84,
+      0,
+      0
+    ],
+    [
+      "img_p0_3"
+    ],
+    [
+      "img_p0_3",
+      1280,
+      84
+    ],
+    [],
+    [],
+    [
+      {
+        "matrix": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "bbox": [
+          0,
+          0,
+          1280,
+          84
+        ],
+        "smask": false,
+        "isolated": false,
+        "knockout": true
+      }
+    ],
+    [],
+    []
+  ],
+  "lastChunk": true
+}
